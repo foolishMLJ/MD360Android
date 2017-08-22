@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\OpenGLES\MD360Player4Android\vrlib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad7e6a23a81c209856af5b12268ed87b69b271bf">
+        <dex dex="D:\OpenGLES\MD360Player4Android\app\build\intermediates\pre-dexed\debug\classes_00e18cc9ddeeec6b55a5551d8a451d254ae9ae50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudio\MD360Player4Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\androidstudio\MD360Player4Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_48be7914da6d165ef774c6d073e402cefc2aebaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudio\MD360Player4Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb82b0fe15d025cb1a33315a7a4c5215fed9c4e0">
+        <dex dex="D:\androidstudio\MD360Player4Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_33cce35e2f03fcc52c1a63f03842188d38f899b6\classes.dex" />
+    </item>
+
+</items>
